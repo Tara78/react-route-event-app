@@ -1,0 +1,61 @@
+[
+{
+    "id":"1",
+    "title":"Lasse-Stefanz", 
+    "place":"Kjell Härnqvistsalen", 
+    "time":"19:00 - 21:00", 
+    "time_b":"kl 19:00 - 21:00",
+    "time_ticket_from":"19.00",
+    "time_ticket_to":"21.00",
+    "price":"350 Sek", 
+    "date_event":"21 MAR", 
+    "date_buy":"21 mars",
+    "date_ticket" : "21 Mar"
+},
+
+    {
+        "id":"2",
+        "title":"Pelle trubadue", 
+        "place":" Pubelipuben ", 
+        "time":"22:00 - 00:00", 
+        "time_b":"kl 22:00 - 00:00",
+        "time_ticket_from":"22.00",
+        "time_ticket_to": "00.00",
+        "price":"110 Sek", 
+        "date_buy":"19 APR",
+        "date_event":"19 APR",
+        "date_ticket":"19 APR"
+
+    }
+,
+    {
+        "id":"3",
+        "title":"Kajsa kör", 
+        "place":"Götaplatsen", 
+        "time":"15:00 - 16:00",
+        "time_b":"kl 15:00 - 16:00",
+        "time_ticket_from" :"15.00",
+        "time_ticket_to": "16.00",
+        "price":"99 Sek", 
+        "date_event":"10 APR",
+        "date_buy":"10 APR",
+        "date_ticket":"10 APR"
+
+    },
+
+    {
+        "id":"4",
+        "title":"Klubb Untz", 
+        "place":"Din favoritkällare", 
+        "time":"22:00 - du trötna", 
+        "time_b":"kl 22:00 - du trötna",
+        "time_ticket_from":"22.00",
+        "time_ticket_to": "du trötna",
+        "price":"150 Sek", 
+        "date_event":"17 APR",
+        "date_buy":"17 APR",
+        "date_ticket":"17 APR"
+
+
+    }
+]

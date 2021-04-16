@@ -1,0 +1,15 @@
+/* .title{
+  font-size:30px ;
+  text-align: center;
+  height: 50px;
+  text-shadow: 1px 1px 0px #F56B9A;
+
+  
+} */
+.event-info{
+  display: flex;
+  justify-content: center;
+
+ 
+
+}
